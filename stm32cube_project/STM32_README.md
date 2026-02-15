@@ -13,6 +13,7 @@ The project was developed using Semtech's SX1280 custom library to flash develop
 - Library and project structure are set up
 - Code does not fully work due to calibration register problems
 - **All measurements used in this thesis were obtained from pre-programmed modules with working firmware**, not from this project
+- If you wish to use this project as starting point, rememeber to configure the build paths to the SX1280 library.
 
 ## Alternative Approach
 
