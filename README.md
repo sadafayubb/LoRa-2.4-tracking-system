@@ -116,13 +116,12 @@ This repository accompanies my bachelor thesis on LoRa-based indoor positioning:
 
 **BibTeX:**
 ```bibtex
-@thesis{ayub2025a,
-  author = {Ayub, Sadaf},
-  title = {LoRa based Time-of-Flight Tracking system},
-  language = {und},
-  format = {thesis},
-  year = {2025},
-  publisher = {DTU Department of Electrical and Photonics Engineering}
+@article{loraranging2026,
+title = {Low-Power Distance Ranging for 2D-Positioning using LoRa 2.4 GHz},
+journal = {Internet of Things},
+author = {Gottschalk, Erik and Ayub, Sadaf and Petersen, Martin Nordal},
+note = {Submitted for publication}
+year = 2026
 }
 ```
 
