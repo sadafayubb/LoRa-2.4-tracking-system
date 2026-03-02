@@ -117,11 +117,11 @@ This repository accompanies my bachelor thesis on LoRa-based indoor positioning:
 **BibTeX:**
 ```bibtex
 @article{loraranging2026,
-title = {Low-Power Distance Ranging for 2D-Positioning using LoRa 2.4 GHz},
-journal = {Internet of Things},
-author = {Gottschalk, Erik and Ayub, Sadaf and Petersen, Martin Nordal},
-note = {Submitted for publication}
-year = 2026
+  title = {Low-Power Distance Ranging for 2D-Positioning using LoRa 2.4 GHz},
+  journal = {Internet of Things},
+  author = {Gottschalk, Erik and Ayub, Sadaf and Petersen, Martin Nordal},
+  note = {Submitted for publication}
+  year = 2026
 }
 ```
 
